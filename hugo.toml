@@ -1,0 +1,28 @@
+baseURL = "http://localhost:1313/"
+languageCode = 'en-us'
+title = "Vivian’s Universe"
+theme = "LoveIt"
+
+[author]
+  name = "Vivian"
+  homepage = "https://vivian-090.github.io/"
+
+[params]
+  description = "Welcome to Vivian's Universe! 🌌"
+  keywords = ["Vivian", "personal website", "fun", "blog"]
+  defaultTheme = "light"  
+  ShowShareButtons = true
+  ShowReadingTime = true
+  ShowToc = true
+  favicon = "favicon.ico"
+
+[[params.social]]
+  name = "Instagram"
+  url = "https://www.instagram.com/vivianlu09"
+  icon = "instagram"
+
+[[params.social]]
+  name = "TikTok"
+  url = "https://www.tiktok.com/@vivianvivianlu"
+  icon = "tiktok"
+
